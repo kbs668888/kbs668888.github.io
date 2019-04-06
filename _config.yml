@@ -1,10 +1,10 @@
 # Site settings
 title: 微信kbs668888
-SEOTitle: 神兽卡丁毛豆
+SEOTitle: 神兽卡丁毛豆道游
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "神兽卡丁毛豆房卡辅助，微信kbs668888"
-keyword: "神兽, 卡丁, 毛豆, 房卡, 辅助"
+description: "神兽卡丁毛豆道游，微信kbs668888"
+keyword: "神兽, 卡丁, 毛豆, 道游"
 url: "https://kbs668888.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
